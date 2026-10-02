@@ -1,0 +1,12 @@
+{
+  "name":"AURA MENU",
+  "short_name":"AURA",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f8f6ef",
+  "theme_color":"#173f27",
+  "description":"AURA Cafe electronic menu",
+  "icons":[
+    {"src":"assets/favicon.png","sizes":"256x256","type":"image/png","purpose":"any maskable"}
+  ]
+}
