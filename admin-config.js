@@ -1,1 +1,0 @@
-window.AURA_ADMIN_CONFIG = { pin: '6548944' };
